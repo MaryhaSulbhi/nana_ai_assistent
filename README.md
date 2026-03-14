@@ -113,15 +113,10 @@ For Streamlit deployment:
 
 ---
 
-## 📸 Demo
+🚀 Live Demo
 
-Example interaction:
-
-```
-User: I failed my exam
-Nana Ji: Beta fail hona zindagi ka end nahi hota. Galtiyon se seekho aur dobara mehnat karo.
-```
-
+👉 Try the App:
+(https://nanaaiassistent-l6qbahgs2kncgv7kquusov.streamlit.app/)
 ---
 
 ## 👩‍💻 Author
